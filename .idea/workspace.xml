@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a247011-cb73-4560-8d21-8607c76cad66" name="变更" comment="m3 ceshi3.txt">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0a247011-cb73-4560-8d21-8607c76cad66" name="变更" comment="d2">
+      <change afterPath="$PROJECT_DIR$/ceshi3.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,11 +13,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="main" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -90,7 +85,6 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="daima.py" />
     <MESSAGE value="d2" />
-    <MESSAGE value="m3 ceshi3.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="m3 ceshi3.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="d2" />
   </component>
 </project>
