@@ -1,2 +1,25 @@
 ceshi/
+
+# 忽略 PyCharm 编辑器生成的目录和文件
 .idea/
+*.iml
+*.ipr
+*.iws
+
+# 忽略项目运行时生成的文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# 忽略日志文件
+*.log
+logs/
+
+# 忽略其他临时文件
+*.bak
+*.swp
