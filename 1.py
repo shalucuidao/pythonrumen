@@ -11,6 +11,7 @@ def ceshi3():
 
 def ceshi4():
 	print('4')
+	print('41')
 
 
 
