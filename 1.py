@@ -10,5 +10,10 @@ def ceshi2():
 def ceshi3():
 	print('3')
 
+def ceshi4():
+	print('4')
+
+
+
 if __name__ == '__main__':
     ceshi3()
