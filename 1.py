@@ -9,6 +9,11 @@ def ceshi2():
 def ceshi3():
 	print('3')
 
+def ceshi4():
+	print('4')
+
+
+
 def feng_ceshi4():
 	print('444')
 
