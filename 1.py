@@ -5,3 +5,9 @@ def ceshi1():
 
 def ceshi2():
 	print('2')
+
+def ceshi3():
+	print('3')
+
+if __name__ == '__main__':
+    ceshi3()
