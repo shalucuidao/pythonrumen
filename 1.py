@@ -5,6 +5,7 @@ def ceshi1():
 
 def ceshi2():
 	print('2')
+	path = 'C:\Users\Administrator\Documents'
 
 def ceshi3():
 	print('3')
