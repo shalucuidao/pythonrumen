@@ -5,6 +5,15 @@ def ceshi1():
 
 def ceshi2():
 	print('2')
+	path = 'C:\Users\Administrator\Documents'
+
+def ceshi3():
+	print('3')
+
+def ceshi4():
+	print('4')
+
+
 
 if __name__ == '__main__':
-	print('111')
+    ceshi3()
